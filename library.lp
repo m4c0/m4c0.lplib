@@ -1,0 +1,10 @@
+(librepcb_library 3eb0a345-a4ae-42f5-b396-cd4a52e0f8e5
+ (name "m4c0 Components")
+ (description "m4c0 Component Library")
+ (keywords "")
+ (author "Eduardo Costa")
+ (version "0.1")
+ (created 2020-02-10T21:23:47Z)
+ (deprecated false)
+ (url "https://github.com/m4c0/m4c0.lplib")
+)
